@@ -21,7 +21,7 @@ This repository contains the complete code, pre‑trained models, and visualizat
 
 ## Data Availability
 
-- **Raw DICOM data** cannot be shared publicly due to patient privacy restrictions. Researchers may request access by contacting the corresponding author (liutao18328251625@163.com) and signing a data use agreement.
+- **Raw DICOM data** cannot be shared publicly due to patient privacy restrictions. Researchers may request access by contacting the corresponding author (wanghaiyan@qhu.edu.cn) and signing a data use agreement.
 - **Pre‑trained model weights** are included in the `models/` directory for direct reproducibility of the paper's results.
 
 ## Repository Structure
@@ -238,13 +238,13 @@ The manuscript is currently under review. Once published, the citation details w
 ```bibtex
 @article{PatellaMTF,
   title   = {A multimodal Transformer fusion model for accurate sex estimation from patellar CT},
-  author  = {Tao Liu and others},
+  author  = {Tao Liu and Haiyan Wang and others},
   journal = {Under review},
-  year    = {2025},
+  year    = {2026},
   note    = {Pre‑trained models and code available at https://github.com/LiuTao331/Patella-MTF}
 }
 ```
 
 ## Contact
 
-For questions or collaboration, please contact: **liutao18328251625@163.com**
+For questions or collaboration, please contact: **wanghaiyan@qhu.edu.cn**
