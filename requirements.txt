@@ -1,0 +1,5 @@
+pydicom
+SimpleITK
+numpy
+pandas
+tqdm
