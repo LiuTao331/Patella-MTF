@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official code repository for **"A multimodal Transformer fusion model for accurate sex estimation from patellar CT"**.
+**Official code repository for the paper on multimodal Transformer fusion for sex estimation from patellar CT.**
 
 ## Overview
 
