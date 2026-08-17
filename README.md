@@ -4,6 +4,8 @@
 
 **Official code repository for the paper on multimodal Transformer fusion for sex estimation from patellar CT.**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21973342.svg)](https://doi.org/10.5281/zenodo.21973342)
+
 ## Overview
 
 This repository contains the complete code, pre‑trained models, and visualization tools to reproduce the experiments described in the paper. The project implements:
